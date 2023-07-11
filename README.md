@@ -1,10 +1,18 @@
 # Sales Products 2019 SQL Project
 
+## Overview
+
 This SQL project focuses on analyzing sales data for the year 2019. The project involves loading the sales data into a database, performing data transformations and aggregations, and generating insights from the analysis.
 
 ## Files
 
 - `Sales Products 2019.sql`: This is the SQL file that contains the queries and commands for loading and analyzing the sales data.
+
+## Tableau Visualizations
+
+You can explore interactive visualizations of the sales data using Tableau. Visit the [Sales Analysis](https://public.tableau.com/app/profile/nikhil.sharma8084/viz/SalesProducts2019/SalesAnalysis) visualization on Tableau Public to access the visualizations.
+
+Please note that some visualizations may require additional data processing steps in the SQL project before they can be reproduced.
 
 ## Usage
 
