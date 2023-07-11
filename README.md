@@ -12,8 +12,6 @@ This SQL project focuses on analyzing sales data for the year 2019. The project 
 
 You can explore interactive visualizations of the sales data using Tableau. Visit the [Sales Analysis](https://public.tableau.com/app/profile/nikhil.sharma8084/viz/SalesProducts2019/SalesAnalysis) visualization on Tableau Public to access the visualizations.
 
-Please note that some visualizations may require additional data processing steps in the SQL project before they can be reproduced.
-
 ## Usage
 
 To use this SQL project, follow these steps:
@@ -35,5 +33,5 @@ Feel free to explore the SQL file and modify the queries according to your speci
 
 ## Contact Information
 
-If you have any questions or feedback regarding this SQL project, please feel free to contact me at [your email address].
+If you have any questions or feedback regarding this SQL project, please feel free to contact me.
 
